@@ -1,4 +1,4 @@
-# RotaFi Agent Framework
+# RotaFi Agent Frameworkd
 
 A TypeScript framework for building autonomous trading agents that integrate with the RotaFi SDK.
 
